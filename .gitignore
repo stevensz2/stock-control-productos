@@ -1,0 +1,14 @@
+# Clases compiladas y salida de Eclipse
+build/
+bin/
+target/
+*.class
+
+# Configuracion local de Eclipse y del servidor
+.settings/
+.metadata/
+Servers/
+
+# Archivos del sistema operativo
+Thumbs.db
+.DS_Store
